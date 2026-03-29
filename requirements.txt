@@ -1,0 +1,37 @@
+# Framework backend
+Flask 
+gunicorn
+python-dotenv
+werkzeug
+
+# Seguridad
+bcrypt
+
+# Bases de Datos
+pymongo
+elasticsearch>=8,<9
+
+# Web Scraping y Automatización
+requests
+beautifulsoup4
+lxml
+playwright
+
+# Procesamiento PDF / OCR
+PyPDF2
+pytesseract
+pdf2image
+Pillow
+
+# Ciencia de Datos y Procesamiento de Lenguaje Natural
+pandas
+numpy
+nltk
+scikit-learn>=1,<2
+spacy>=3,<4
+
+# Embeddings y Modelos de Lenguaje
+torch>=2,<3
+transformers>=4,<5
+sentence-transformers>=2.7,<4
+huggingface-hub>=0.14.1,<1
